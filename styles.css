@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+}
+.dog-info {
+  margin: auto;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  width: 50%;
+  background-color: azure;
+  box-shadow: 10px 10px 5px grey;
+}
+img {
+  height: 25%;
+  width: 25%;
+}
+
+form {
+  display: block;
+}
+
+label {
+  font-size: 24px;
+}
+
+input {
+  border: solid;
+}
